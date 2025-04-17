@@ -14,7 +14,7 @@ Complete documentation can be check in the [**API DOCUMENTATION**](https://docum
 ## Installation
 * Clone MANAGEMENT TASK API git repository
 ````
-git clone https:// managementTaskApi
+git clone https://github.com/farizindrad/management-task.git managementTaskApi
 ````
 * Go to the  folder
 ````
